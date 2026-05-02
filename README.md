@@ -27,12 +27,12 @@ A minimalistic, sophisticated dark theme for [Zed](https://zed.dev), meticulousl
 
 | Color | Hex | Purpose |
 | :--- | :--- | :--- |
-| ![#161616](https://via.placeholder.com/15/161616/000000?text=+) | `#161616` | UI Background |
-| ![#191919](https://via.placeholder.com/15/191919/000000?text=+) | `#191919` | Editor Background |
-| ![#BFAA40](https://via.placeholder.com/15/BFAA40/000000?text=+) | `#BFAA40` | Primary Accent / Keywords |
-| ![#6FB24D](https://via.placeholder.com/15/6FB24D/000000?text=+) | `#6FB24D` | Strings / Success |
-| ![#D9D9D9](https://via.placeholder.com/15/D9D9D9/000000?text=+) | `#D9D9D9` | Primary Text |
-| ![#737373](https://via.placeholder.com/15/737373/000000?text=+) | `#737373` | Comments / Muted |
+| ![#161616](https://placehold.co/15x15/161616/161616) | `#161616` | UI Background |
+| ![#191919](https://placehold.co/15x15/191919/191919) | `#191919` | Editor Background |
+| ![#BFAA40](https://placehold.co/15x15/BFAA40/BFAA40) | `#BFAA40` | Primary Accent / Keywords |
+| ![#6FB24D](https://placehold.co/15x15/6FB24D/6FB24D) | `#6FB24D` | Strings / Success |
+| ![#D9D9D9](https://placehold.co/15x15/D9D9D9/D9D9D9) | `#D9D9D9` | Primary Text |
+| ![#737373](https://placehold.co/15x15/737373/737373) | `#737373` | Comments / Muted |
 
 ---
 
