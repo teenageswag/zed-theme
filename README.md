@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ Soul Theme
 
 [![Version](https://img.shields.io/badge/version-0.1.0-BFAA40?style=flat-square)](https://github.com/teenageswag/Soul-Theme)
@@ -5,6 +7,8 @@
 [![Zed](https://img.shields.io/badge/editor-Zed-161616?style=flat-square&logo=zed&logoColor=white)](https://zed.dev)
 
 A minimalistic, sophisticated dark theme for [Zed](https://zed.dev), meticulously crafted for developers who value clarity, focus, and a touch of elegance. **Soul Theme** balances deep charcoal backgrounds with warm golden accents to create an environment that feels alive yet remains gentle on the eyes.
+
+</div>
 
 ---
 
@@ -17,6 +21,7 @@ A minimalistic, sophisticated dark theme for [Zed](https://zed.dev), meticulousl
 ## 🌌 Philosophy
 
 **Soul Theme** isn't just about colors; it's about the atmosphere.
+
 - **Deep Focus**: The `#161616` background minimizes distractions.
 - **Warmth**: Golden accents (`#BFAA40`) guide your eyes to what matters most.
 - **Balance**: Carefully selected syntax colors ensure that code remains readable even during 12-hour sessions.
@@ -25,14 +30,14 @@ A minimalistic, sophisticated dark theme for [Zed](https://zed.dev), meticulousl
 
 ## 🎨 Palette
 
-| Color | Hex | Purpose |
-| :--- | :--- | :--- |
-| ![#161616](https://placehold.co/15x15/161616/161616) | `#161616` | UI Background |
-| ![#191919](https://placehold.co/15x15/191919/191919) | `#191919` | Editor Background |
+| Color                                                | Hex       | Purpose                   |
+| :--------------------------------------------------- | :-------- | :------------------------ |
+| ![#161616](https://placehold.co/15x15/161616/161616) | `#161616` | UI Background             |
+| ![#191919](https://placehold.co/15x15/191919/191919) | `#191919` | Editor Background         |
 | ![#BFAA40](https://placehold.co/15x15/BFAA40/BFAA40) | `#BFAA40` | Primary Accent / Keywords |
-| ![#6FB24D](https://placehold.co/15x15/6FB24D/6FB24D) | `#6FB24D` | Strings / Success |
-| ![#D9D9D9](https://placehold.co/15x15/D9D9D9/D9D9D9) | `#D9D9D9` | Primary Text |
-| ![#737373](https://placehold.co/15x15/737373/737373) | `#737373` | Comments / Muted |
+| ![#6FB24D](https://placehold.co/15x15/6FB24D/6FB24D) | `#6FB24D` | Strings / Success         |
+| ![#D9D9D9](https://placehold.co/15x15/D9D9D9/D9D9D9) | `#D9D9D9` | Primary Text              |
+| ![#737373](https://placehold.co/15x15/737373/737373) | `#737373` | Comments / Muted          |
 
 ---
 
@@ -42,15 +47,17 @@ A minimalistic, sophisticated dark theme for [Zed](https://zed.dev), meticulousl
 2. Open the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P`).
 3. Type `extensions: install extension` and search for **Soul Theme**.
 4. Alternatively, clone this repo into your extensions directory:
-   ```bash
-   git clone https://github.com/teenageswag/Soul-Theme.git
-   ```
+
+```bash
+git clone https://github.com/teenageswag/Soul-Theme.git
+```
 
 ---
 
 ## 🛠️ Built for Zed
 
 This theme leverages Zed's modern theming engine to provide:
+
 - **Smooth Transitions**: Integrated UI and editor colors.
 - **Crisp Typography**: Optimized contrast for modern font rendering.
 - **Terminal Integration**: A cohesive terminal experience that matches your workspace.
