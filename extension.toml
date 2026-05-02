@@ -1,7 +1,7 @@
-id = "minimalistic dark theme"
-name = "Minimalistic Dark"
-description = "A minimalistic, pleasant dark theme with deep colors."
+id = "Soul Theme"
+name = "Soul Theme"
 version = "0.1.0"
-schema_version = 2
-authors = ["j2cks"]
-repository = "https://github.com/teenageswag/zed-theme"
+schema_version = 1
+authors = ["Artem <j2cks.win@gmail.com>"]
+description = "A minimalistic theme in a dark style for the editor."
+repository = "https://github.com/teenageswag/Soul-Theme"
